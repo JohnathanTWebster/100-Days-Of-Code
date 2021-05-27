@@ -1,6 +1,3 @@
-# 100-Days-Of-Code
-This will document all my progress with this challenge and forward
-
 I've joined the #100DaysOfCode Challenge
 Contents
 Rules
