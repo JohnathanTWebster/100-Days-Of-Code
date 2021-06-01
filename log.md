@@ -23,3 +23,10 @@ Today's Prpgress: I was only able to complete 1 lesson today. I had a whole bunc
 
 <h2>Day 4: May 30, Sunday</h2>
 Today's Prpgress: Completed lessons 27-30. Had a hectic day at work and was able to squeeze some time in. I am glad I have started to get into the cool visual effects now. This will be a strong motivator over my weekend to complete this section finally.
+
+
+<h2>Day 5: May 31, Monday</h2>
+Today's Progress: Completed lessons 30-52 today. The animation is still a little confusing to me so I will do some more reasearch on my spare time. Going to tackle Applied Accessability tomorrow. I will be trying to start a project idea soon for a website I had in mind. Still working out the layout but I want to make it special.
+
+
+
