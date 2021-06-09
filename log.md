@@ -15,10 +15,8 @@ Today's Progress: I have updated my twitter to better document my progress. Also
 Today's Prpgress: I have learned 26 lessons in one day. I think I pushed like I said ha. I like how it is finally explaining more in depth how websites get their format. I have become so blinded when I go to a website that I expect a certain format. Learning how much time it actually takes to form website structure is quite eye opnening. I took a seak peek at the up coming lessons and I am even more excited. More specifically the <a href="https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/animate-elements-continually-using-an-infinite-animation-count">Animate Elements Continually Using an Infinite Animation Count</a>. This one in particular looks fun.
 
 
-
 <h2>Day 3: May 29, Saturday</h2>
 Today's Prpgress: I was only able to complete 1 lesson today. I had a whole bunch of plans going on including my schedule change. I know it is just excuses but I will get on it on my days off that are coming up.
-
 
 
 <h2>Day 4: May 30, Sunday</h2>
@@ -29,4 +27,37 @@ Today's Prpgress: Completed lessons 27-30. Had a hectic day at work and was able
 Today's Progress: Completed lessons 30-52 today. The animation is still a little confusing to me so I will do some more reasearch on my spare time. Going to tackle Applied Accessability tomorrow. I will be trying to start a project idea soon for a website I had in mind. Still working out the layout but I want to make it special.
 
 
+<h2>Day 6: June 1, Tuesday</h2>
+Today's Progress: Completed lessons 1-11 on Applied Accessability. I am surprised to this side of development. I never knew there was accessability formatting for webpages because I do not need to use them. The ammount of consideration web pages can have for people with all kinds of disabilities is amazing!
 
+
+<h2>Day 7: June 2, Wednesday</h2>
+Today's Progress: Finished Applied accessability. I am in love with how much detail is involved with web design. You need to think about all types of users and their everyday struggles when creating a website. This way you can cater to everyone. I love this.
+
+
+<h2>Day 8: June 3, Thursday</h2>
+Today's Progress: Focused only on Responsive Web Design principles today. I wanted to understand them without overloading myself. I have obviously life to cater to but I still was able to complete this section. This section was short but important as formatting is important.
+
+
+<h2>Day 9: June 4, Friday</h2>
+Today's Progress: Today was the first day of my new schedule and I was only able to complete 1-9 on CSS FlexBox. I am starting to realize the multitude of formatting options CSS offers. I am not very artistic but with the help of CSS this is another way I can express my more creative side.
+
+
+<h2>Day 10: June 5, Saturday</h2>
+Today's Progress: Finished CSS FlexBox. Now I see why people get confused when it comes to positioning in CSS &#129315. Although, I myself am starting to get a little overwhelmed with all the options for creative approach myself but I am determined.
+
+
+<h2>Day 11: June 6, Sunday</h2>
+Today's Progress: Started CSS grid. This section is coming naturally to me. I am fond of the structure of rows and columns so this section, so far, is probably my favorite.
+
+
+<h2>Day 12: June 7, Monday</h2>
+Today's Progress: Yeah, CSS Grid is my favorite so far. I picked up on this section pretty quickly. Coming from understanding two-dimentional (or more) arrays in C++ this section was super easy to apply the same logic.
+
+
+<h2>Day 13: June 8, Tuesday</h2>
+Today's Progress: Started the tribute page project. Decided to make it on Nikola Tesla as he is a big insperation for me in my persuite for understanding computers and technology. 
+
+
+<h2>Day 14: June 9, Wednesday</h2>
+Today's Progress: Finished my first website!! This is so basic but I am proud of myself. I was able to look up information I either forgot or did not know and used the template website as a guide for the most part. Either way I am def rewarding myself tonight!
