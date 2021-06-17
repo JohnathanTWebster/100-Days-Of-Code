@@ -61,3 +61,31 @@ Today's Progress: Started the tribute page project. Decided to make it on Nikola
 
 <h2>Day 14: June 9, Wednesday</h2>
 Today's Progress: Finished my first website!! This is so basic but I am proud of myself. I was able to look up information I either forgot or did not know and used the template website as a guide for the most part. Either way I am def rewarding myself tonight!
+
+
+<h2>Day 15: June 10, Thursday</h2>
+Today's Progress: I just started on my next webpage the survey form. So far this is more daunting than the tribute page because this requires more input than the last. I will get this!
+
+
+<h2>Day 16: June 11, Friday</h2>
+Today's Progress: Finished the survey form. After I got the format down, with some assistance from the example on freecodecamp, I was able to get it. I really feel like I want to come back and update these pages just to see my progress. For now though I will be moving on to the next challenge.
+
+
+<h2>Day 17: June 12, Saturday</h2>
+Today's Progress: Another slow day at work so I was able to nock out a good chunk off the product landing page. I spent forever trying to figure out how to center the row with the quality listing but I was able to figure it out....with the help of a few google searches. I will be finishing the formatting tomorrow and the bottom section as I need a little break from this.
+
+
+<h2>Day 18: June 13, Sunday</h2>
+Today's Progress: Super, and I mean super, busy day at work. The first half of the day was spent catching up because of vacations but we got it done. I was able to squeeze in the final section to the product landing page so just glad I am keeping a good pace. I really want to keep moving on but need to prove what I have learned. Not only to those following but to myself as if this is what I really want to do I need to get it done like I always do.
+
+
+<h2>Day 19: June 14, Monday</h2>
+Today's Progress: I started the tech documentation page today. This on by far is my most favored out of all the challenges. I find myself reading a bunch of these in my spare time so I find it exciting to contribute to one. 
+
+
+<h2>Day 20: June 15, Tuesday</h2>
+Today's Progress: Finished the tech documentation page. This is my favroite one by far. I felt like I actually knew what I was doing by looking up what I needed to and completing section after section so fast. This is what I am ment to do I just know it.
+
+
+<h2>Day 21: June 16, Wednesday</h2>
+Today's Progress: Started and finished the portfolio page. It feels weird making a webpage about myself as I was scratching for things to inclued. I was taking the whole site crazy serious but it wasnt a real one so I needed to get it done. Glad with the result nonetheless.
