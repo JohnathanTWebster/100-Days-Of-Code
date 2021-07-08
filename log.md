@@ -89,3 +89,7 @@ Today's Progress: Finished the tech documentation page. This is my favroite one 
 
 <h2>Day 21: June 16, Wednesday</h2>
 Today's Progress: Started and finished the portfolio page. It feels weird making a webpage about myself as I was scratching for things to inclued. I was taking the whole site crazy serious but it wasnt a real one so I needed to get it done. Glad with the result nonetheless.
+
+
+<h2>Day 22: July 8, Thursday</h2>
+Today's Progress: Took a little break to finish up some side projcets such as building my wife's computer, summer finals, converting my main system to linux and dealing with hurricane Elsa. In that amount of time I was able to complete ES6 on free code camp but it was so far inbetween I dont want to just include almost a month of just one module a day. I am getting back on track now so hopefully there will not be any more distractions.
